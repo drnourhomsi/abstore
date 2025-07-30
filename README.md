@@ -5,6 +5,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+create OneEnty accoutn
+get subdomain & token
+rename .env.local.dummy to .env.local
+change info inside .env.local with your own
+# then
 npm install
 # then
 npm run dev
